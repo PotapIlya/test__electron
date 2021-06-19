@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+i{
+    color: #fff;
+}
+button{
+    background: transparent;
+    border: 0 none;
+    padding: 10px;
+}
+header{
+    background: #0a131d;
+    padding: 20px 0;
+}
+
+
+body{
+    background: #0a131d;
+}
